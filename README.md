@@ -8,7 +8,7 @@
 
 ## 🔎 Intro:
 
-This is a practice project in React and Redux that displays a basic shopping cart.
+This is a practice project in React with Redux that displays a basic shopping cart.
 
 ## 🧰 🛠️ Tech Stack & Techniques:
 
