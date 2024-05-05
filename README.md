@@ -15,7 +15,7 @@ This is a practice project in React with Redux that displays a basic shopping ca
 - React
 - JavaScript
 - Redux
-- FireBase
+- FireBase Database
 - CSS Modules
 - React-Redux Hooks
 - ReduxJS Toolkit
