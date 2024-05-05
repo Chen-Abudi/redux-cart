@@ -14,8 +14,11 @@ This is a practice project in React with Redux that displays a basic shopping ca
 
 - React
 - JavaScript
-- Redux + Redux Toolkit
+- Redux
 - CSS Modules
+- React-Redux Hooks
+- ReduxJS Toolkit
+- FireBase
 
 ---
 
@@ -26,3 +29,5 @@ If you want to strengthen your knowledge and skills of **React, Redux, and more.
 ## Visit the Course [&#128073;&#127997; **HERE !**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 **_`Shoutout to Maximilian Schwarzmüller for this practice project and its design, the lectures, the exercises, and the React course in Udemy. Mahalo, Thank you!`_** 🌺
+
+<!-- https://redux-cart-912f9-default-rtdb.firebaseio.com/ -->
