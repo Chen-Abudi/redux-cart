@@ -22,6 +22,7 @@ This is a practice project in React with Redux that displays a basic shopping ca
 ## 🛠️ Techniques:
 
 - React-Redux Hooks
+- HTTP Requests
 - **`Action Creator Thunk`**: A function that **delays an action** until later.  
   ⇾ An action creator function that does **Not return the action itself** but instead **another function** which **eventually** returns the action.
 - **`Redux DevTools`**
