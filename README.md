@@ -10,15 +10,20 @@
 
 This is a practice project in React with Redux that displays a basic shopping cart.
 
-## 🧰 🛠️ Tech Stack & Techniques:
+## 🧰 Tech Stack:
 
 - React
 - JavaScript
 - Redux
+- ReduxJS Toolkit
 - FireBase
 - CSS Modules
+
+## 🛠️ Techniques:
+
 - React-Redux Hooks
-- ReduxJS Toolkit
+- **`Action Creator Thunk`**: A function that **delays an action** until later.  
+  ⇾ An action creator function that does **Not return the action itself** but instead **another function** which **eventually** returns the action.
 
 ---
 
