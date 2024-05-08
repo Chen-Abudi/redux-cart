@@ -3,7 +3,8 @@
 ## 📣 Overview:
 
 - Intro
-- Tech Stack & Techniques
+- Tech Stack
+- Techniques
 - Additional Link
 
 ## 🔎 Intro:
